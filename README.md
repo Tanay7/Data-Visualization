@@ -1,2 +1,2 @@
 # Data-Visualization
-A collection of Data Viz project
+A collection of Data Viz projects
