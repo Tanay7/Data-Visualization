@@ -5,7 +5,7 @@
 This dashboard describes Crimespotting in The Republic of Ireland across various divisions to the resolution of stations.
 
 ### Project Link in Tableau public:
-https://public.tableau.com/profile/tanay.chowdhury#!/vizhome/CrimeSpottinginTheRepublicofIreland/Overview?publish=yes
+https://public.tableau.com/app/profile/tanay.chowdhury/vizzes#!/
 
 ### The dataset is harvested from the below URL:
 
